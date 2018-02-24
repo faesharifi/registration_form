@@ -1,0 +1,99 @@
+body{
+		background:linear-gradient( darkblue, #d6b3eb) no-repeat;
+		font-size: 20px;
+		width: 33.3%;
+		height: 800px;
+		margin: auto;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		padding-top: 100px;
+		opacity: .8;
+			
+	}
+	#main{
+		background: linear-gradient(#8260a7, #bca1bd);
+		width: 550px;
+		height: 650px;
+		border-radius: 10px;
+		font-size: 16px;
+		
+	}	
+	
+	#move{
+		position: relative;
+		left: 65px;
+	}
+	#main h1{
+		font-size: 32px;
+		padding-top: 25px;
+		padding-bottom: 0px;
+		color: #ffffff;
+		text-align: center;
+	}
+	
+	#main input{
+		margin-top: 10px;
+		width: 190px;
+		height: 20px;
+		font-size: 20px;
+		border-radius: 10px;
+		padding: 10px;
+		border:#473F51 2px solid;
+	}
+	
+	
+	#main input[type="email"]{
+		width: 410px;
+	}
+	 
+	#main input[type="password"]{
+		width: 410px;
+	}
+
+	#main input[type="username"]{
+		width: 410px;
+    }
+		
+	
+	#main input[type="date"]{
+		width: 410px;
+		
+	}
+	
+	#main input[type="radio"]{
+		width: 20px;
+	}
+
+	#main input[type="submit"]{
+		width: 430px;
+		height: 50px;
+		background:#FFA600;
+		border:#473F51 3px solid;
+	}
+	
+	td{
+		width: 415px;
+		border: 2px #473F51 solid;
+		border-radius: 10px;
+		padding: 5px;
+		text-align: center;
+		font-size: 15px;
+		letter-spacing: .2px;
+		
+		}
+	
+	#main a{
+		color: #ffffff;
+		text-decoration: none
+	}
+	
+	label{
+		font-size: 15px;
+		position:relative;
+		bottom: 5px;
+	}
+	
+	#db {
+	
+		position: relative;
+		top: 5px;
+	}
